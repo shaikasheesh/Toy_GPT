@@ -19,7 +19,7 @@
 * Normalized the Gradients in the Training loop 
 
 ### Sample Output from the Model
-
+```
 RICHMOND:
 Hold received the grant are well caught her,
 Side even chysel. Have wask me her one safe
@@ -70,5 +70,5 @@ QUEEN MARGARET:
 Yea, no, what a marriage of my Gloucester
 With a hrouble south to the pridence command;
 H
-
+```
 #### Note: This Implementation work is done with help of Andrej Karpathy nanoGPT repo 
