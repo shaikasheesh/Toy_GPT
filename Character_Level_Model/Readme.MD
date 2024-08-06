@@ -17,3 +17,6 @@
 * Weights are initialized with std == 0.02 and mean == 0
 * AdamW optimizer with weight decay of 0.1 and betas (0.9,0.95) is used
 * Normalized the Gradients in the Training loop 
+
+
+#### Note: This Implementation work is done with help of Andrej Karpathy nanoGPT repo 
